@@ -149,6 +149,9 @@ activemq-data/
 
 # Environments
 food_env/
+food_dataset_for_test/
+Image_collection.ipynb
+demo_pics/
 .env
 .envrc
 .venv
