@@ -1,0 +1,129 @@
+validation_stage,dish_label,image_path,validation_result
+2%,Meatloaf,USA_Food_Collection\Meatloaf\Meatloaf_20.jpg,correct
+2%,Chocolate Chip Cookies,USA_Food_Collection\Chocolate Chip Cookies\Chocolate_Chip_Cookies_5.jpg,correct
+2%,BBQ Chicken,USA_Food_Collection\BBQ Chicken\BBQ_Chicken_12.jpg,correct
+2%,Caesar Salad,USA_Food_Collection\Caesar Salad\Caesar_Salad_69.jpg,correct
+2%,Fried Shrimp,USA_Food_Collection\Fried Shrimp\Fried_Shrimp_51.jpg,correct
+2%,Burrito Bowl,USA_Food_Collection\Burrito Bowl\Burrito_Bowl_68.jpg,correct
+2%,Chicken Parmesan,USA_Food_Collection\Chicken Parmesan\Chicken_Parmesan_49.jpg,correct
+2%,Cheeseburger,USA_Food_Collection\Cheeseburger\Cheeseburger_72.jpg,correct
+2%,Cheesecake,USA_Food_Collection\Cheesecake\Cheesecake_35.jpg,correct
+2%,Classic Hamburger,USA_Food_Collection\Classic Hamburger\Classic_Hamburger_71.jpg,correct
+2%,Philly Cheesesteak,USA_Food_Collection\Philly Cheesesteak\Philly_Cheesesteak_46.jpg,correct
+2%,Fish and Chips,USA_Food_Collection\Fish and Chips\Fish_and_Chips_14.jpg,correct
+2%,Cheeseburger,USA_Food_Collection\Cheeseburger\Cheeseburger_90.jpg,correct
+2%,Chicken Tenders,USA_Food_Collection\Chicken Tenders\Chicken_Tenders_15.jpg,correct
+2%,Philly Cheesesteak,USA_Food_Collection\Philly Cheesesteak\Philly_Cheesesteak_56.jpg,correct
+2%,French Toast,USA_Food_Collection\French Toast\French_Toast_36.jpg,correct
+2%,Cheesecake,USA_Food_Collection\Cheesecake\Cheesecake_58.jpg,correct
+2%,Pulled Pork Sandwich,USA_Food_Collection\Pulled Pork Sandwich\Pulled_Pork_Sandwich_17.jpg,correct
+2%,Pancakes,USA_Food_Collection\Pancakes\Pancakes_47.jpg,correct
+2%,Nachos,USA_Food_Collection\Nachos\Nachos_40.jpg,correct
+2%,Donuts,USA_Food_Collection\Donuts\Donuts_51.jpg,correct
+2%,Chili Con Carne,USA_Food_Collection\Chili Con Carne\Chili_Con_Carne_5.jpg,correct
+2%,Chicago Deep Dish Pizza,USA_Food_Collection\Chicago Deep Dish Pizza\Chicago_Deep_Dish_Pizza_75.jpg,correct
+2%,Shrimp Scampi,USA_Food_Collection\Shrimp Scampi\Shrimp_Scampi_46.jpg,correct
+2%,Pepperoni Pizza,USA_Food_Collection\Pepperoni Pizza\Pepperoni_Pizza_36.jpg,correct
+2%,Hot Dog,USA_Food_Collection\Hot Dog\Hot_Dog_50.jpg,correct
+2%,Buffalo Wings,USA_Food_Collection\Buffalo Wings\Buffalo_Wings_34.jpg,correct
+2%,Fettuccine Alfredo,USA_Food_Collection\Fettuccine Alfredo\Fettuccine_Alfredo_17.jpg,correct
+2%,Grilled Cheese Sandwich,USA_Food_Collection\Grilled Cheese Sandwich\Grilled_Cheese_Sandwich_28.jpg,correct
+2%,Pepperoni Pizza,USA_Food_Collection\Pepperoni Pizza\Pepperoni_Pizza_13.jpg,correct
+2%,Chicken Rice Bowl,USA_Food_Collection\Chicken Rice Bowl\Chicken_Rice_Bowl_49.jpg,correct
+2%,Chicago Deep Dish Pizza,USA_Food_Collection\Chicago Deep Dish Pizza\Chicago_Deep_Dish_Pizza_39.jpg,correct
+2%,Pulled Pork Sandwich,USA_Food_Collection\Pulled Pork Sandwich\Pulled_Pork_Sandwich_40.jpg,correct
+2%,Meatloaf,USA_Food_Collection\Meatloaf\Meatloaf_56.jpg,correct
+2%,Fish and Chips,USA_Food_Collection\Fish and Chips\Fish_and_Chips_9.jpg,correct
+2%,BBQ Ribs,USA_Food_Collection\BBQ Ribs\BBQ_Ribs_38.jpg,correct
+2%,Clam Chowder,USA_Food_Collection\Clam Chowder\Clam_Chowder_4.jpg,correct
+2%,Club Sandwich,USA_Food_Collection\Club Sandwich\Club_Sandwich_53.jpg,correct
+2%,BBQ Ribs,USA_Food_Collection\BBQ Ribs\BBQ_Ribs_35.jpg,correct
+2%,Chicken Quesadilla,USA_Food_Collection\Chicken Quesadilla\Chicken_Quesadilla_41.jpg,correct
+2%,Chicken Tenders,USA_Food_Collection\Chicken Tenders\Chicken_Tenders_49.jpg,correct
+2%,BBQ Chicken,USA_Food_Collection\BBQ Chicken\BBQ_Chicken_41.jpg,correct
+2%,Buffalo Wings,USA_Food_Collection\Buffalo Wings\Buffalo_Wings_2.jpg,correct
+2%,Nachos,USA_Food_Collection\Nachos\Nachos_83.jpg,correct
+2%,Cornbread,USA_Food_Collection\Cornbread\Cornbread_82.jpg,correct
+2%,Bacon and Eggs,USA_Food_Collection\Bacon and Eggs\Bacon_and_Eggs_21.jpg,incorrect
+2%,Jambalaya,USA_Food_Collection\Jambalaya\Jambalaya_90.jpg,correct
+2%,Turkey Sandwich,USA_Food_Collection\Turkey Sandwich\Turkey_Sandwich_84.jpg,correct
+2%,Spaghetti and Meatballs,USA_Food_Collection\Spaghetti and Meatballs\Spaghetti_and_Meatballs_67.jpg,correct
+2%,Lobster Roll,USA_Food_Collection\Lobster Roll\Lobster_Roll_8.jpg,correct
+2%,Fried Chicken,USA_Food_Collection\Fried Chicken\Fried_Chicken_41.jpg,correct
+2%,Ice Cream Sundae,USA_Food_Collection\Ice Cream Sundae\Ice_Cream_Sundae_87.jpg,correct
+2%,Mac and Cheese,USA_Food_Collection\Mac and Cheese\Mac_and_Cheese_71.jpg,correct
+2%,Lobster Roll,USA_Food_Collection\Lobster Roll\Lobster_Roll_83.jpg,correct
+2%,Beef Tacos,USA_Food_Collection\Beef Tacos\Beef_Tacos_12.jpg,correct
+2%,Mac and Cheese,USA_Food_Collection\Mac and Cheese\Mac_and_Cheese_29.jpg,correct
+2%,Cheese Pizza,USA_Food_Collection\Cheese Pizza\Cheese_Pizza_85.jpg,correct
+2%,Baked Potato,USA_Food_Collection\Baked Potato\Baked_Potato_72.jpg,correct
+2%,Beef Tacos,USA_Food_Collection\Beef Tacos\Beef_Tacos_51.jpg,correct
+2%,Pancakes,USA_Food_Collection\Pancakes\Pancakes_16.jpg,correct
+2%,Lasagna,USA_Food_Collection\Lasagna\Lasagna_84.jpg,correct
+2%,Chicken Tenders,USA_Food_Collection\Chicken Tenders\Chicken_Tenders_17.jpg,correct
+2%,Cobb Salad,USA_Food_Collection\Cobb Salad\Cobb_Salad_19.jpg,incorrect
+2%,Chicken Rice Bowl,USA_Food_Collection\Chicken Rice Bowl\Chicken_Rice_Bowl_34.jpg,correct
+2%,Biscuits and Gravy,USA_Food_Collection\Biscuits and Gravy\Biscuits_and_Gravy_13.jpg,correct
+2%,Lasagna,USA_Food_Collection\Lasagna\Lasagna_18.jpg,correct
+2%,Cheese Pizza,USA_Food_Collection\Cheese Pizza\Cheese_Pizza_32.jpg,correct
+2%,French Fries,USA_Food_Collection\French Fries\French_Fries_43.jpg,correct
+2%,Shrimp Scampi,USA_Food_Collection\Shrimp Scampi\Shrimp_Scampi_34.jpg,correct
+2%,Apple Pie,USA_Food_Collection\Apple Pie\Apple_Pie_83.jpg,correct
+2%,Donuts,USA_Food_Collection\Donuts\Donuts_76.jpg,correct
+2%,Meatloaf,USA_Food_Collection\Meatloaf\Meatloaf_46.jpg,correct
+2%,Cornbread,USA_Food_Collection\Cornbread\Cornbread_43.jpg,correct
+2%,Chicken Quesadilla,USA_Food_Collection\Chicken Quesadilla\Chicken_Quesadilla_27.jpg,correct
+2%,Ice Cream Sundae,USA_Food_Collection\Ice Cream Sundae\Ice_Cream_Sundae_40.jpg,correct
+2%,Chili Con Carne,USA_Food_Collection\Chili Con Carne\Chili_Con_Carne_2.jpg,correct
+2%,Chicken Parmesan,USA_Food_Collection\Chicken Parmesan\Chicken_Parmesan_59.jpg,correct
+2%,Spaghetti and Meatballs,USA_Food_Collection\Spaghetti and Meatballs\Spaghetti_and_Meatballs_85.jpg,correct
+2%,Omelette,USA_Food_Collection\Omelette\Omelette_74.jpg,correct
+2%,Apple Pie,USA_Food_Collection\Apple Pie\Apple_Pie_22.jpg,correct
+2%,Fried Chicken,USA_Food_Collection\Fried Chicken\Fried_Chicken_62.jpg,correct
+2%,Chicken Nuggets,USA_Food_Collection\Chicken Nuggets\Chicken_Nuggets_94.jpg,correct
+2%,Fried Catfish,USA_Food_Collection\Fried Catfish\Fried_Catfish_20.jpg,correct
+2%,Fettuccine Alfredo,USA_Food_Collection\Fettuccine Alfredo\Fettuccine_Alfredo_31.jpg,correct
+2%,Mashed Potatoes,USA_Food_Collection\Mashed Potatoes\Mashed_Potatoes_38.jpg,correct
+2%,Clam Chowder,USA_Food_Collection\Clam Chowder\Clam_Chowder_14.jpg,correct
+2%,Classic Hamburger,USA_Food_Collection\Classic Hamburger\Classic_Hamburger_62.jpg,correct
+2%,Baked Potato,USA_Food_Collection\Baked Potato\Baked_Potato_88.jpg,correct
+2%,Hot Dog,USA_Food_Collection\Hot Dog\Hot_Dog_33.jpg,correct
+2%,Reuben Sandwich,USA_Food_Collection\Reuben Sandwich\Reuben_Sandwich_34.jpg,correct
+2%,Mashed Potatoes,USA_Food_Collection\Mashed Potatoes\Mashed_Potatoes_94.jpg,correct
+2%,Caesar Salad,USA_Food_Collection\Caesar Salad\Caesar_Salad_101.jpg,correct
+2%,Jambalaya,USA_Food_Collection\Jambalaya\Jambalaya_89.jpg,correct
+2%,Caesar Salad,USA_Food_Collection\Caesar Salad\Caesar_Salad_74.jpg,correct
+2%,Biscuits and Gravy,USA_Food_Collection\Biscuits and Gravy\Biscuits_and_Gravy_12.jpg,correct
+2%,Bacon and Eggs,USA_Food_Collection\Bacon and Eggs\Bacon_and_Eggs_25.jpg,correct
+2%,Beef Tacos,USA_Food_Collection\Beef Tacos\Beef_Tacos_70.jpg,correct
+2%,French Fries,USA_Food_Collection\French Fries\French_Fries_36.jpg,correct
+2%,French Toast,USA_Food_Collection\French Toast\French_Toast_19.jpg,correct
+2%,Waffles,USA_Food_Collection\Waffles\Waffles_62.jpg,correct
+2%,Chicago Deep Dish Pizza,USA_Food_Collection\Chicago Deep Dish Pizza\Chicago_Deep_Dish_Pizza_59.jpg,correct
+2%,Chocolate Chip Cookies,USA_Food_Collection\Chocolate Chip Cookies\Chocolate_Chip_Cookies_8.jpg,correct
+2%,Club Sandwich,USA_Food_Collection\Club Sandwich\Club_Sandwich_23.jpg,correct
+2%,Reuben Sandwich,USA_Food_Collection\Reuben Sandwich\Reuben_Sandwich_75.jpg,correct
+2%,Cobb Salad,USA_Food_Collection\Cobb Salad\Cobb_Salad_73.jpg,correct
+2%,Grilled Cheese Sandwich,USA_Food_Collection\Grilled Cheese Sandwich\Grilled_Cheese_Sandwich_52.jpg,correct
+2%,Turkey Sandwich,USA_Food_Collection\Turkey Sandwich\Turkey_Sandwich_55.jpg,correct
+2%,Waffles,USA_Food_Collection\Waffles\Waffles_26.jpg,correct
+2%,Fried Catfish,USA_Food_Collection\Fried Catfish\Fried_Catfish_53.jpg,correct
+2%,Fried Shrimp,USA_Food_Collection\Fried Shrimp\Fried_Shrimp_83.jpg,correct
+2%,Omelette,USA_Food_Collection\Omelette\Omelette_35.jpg,correct
+2%,Chicken Nuggets,USA_Food_Collection\Chicken Nuggets\Chicken_Nuggets_1.jpg,correct
+2%,Burrito Bowl,USA_Food_Collection\Burrito Bowl\Burrito_Bowl_36.jpg,correct
+2%,Chicken Nuggets,USA_Food_Collection\Chicken Nuggets\Chicken_Nuggets_24.jpg,correct
+5%,Beef Tacos,USA_Food_Collection\Beef Tacos\Beef_Tacos_31.jpg,correct
+5%,Lobster Roll,USA_Food_Collection\Lobster Roll\Lobster_Roll_37.jpg,correct
+5%,Chicken Nuggets,USA_Food_Collection\Chicken Nuggets\Chicken_Nuggets_57.jpg,correct
+5%,Apple Pie,USA_Food_Collection\Apple Pie\Apple_Pie_17.jpg,correct
+5%,Chicken Quesadilla,USA_Food_Collection\Chicken Quesadilla\Chicken_Quesadilla_62.jpg,correct
+5%,Pulled Pork Sandwich,USA_Food_Collection\Pulled Pork Sandwich\Pulled_Pork_Sandwich_44.jpg,correct
+5%,Grilled Cheese Sandwich,USA_Food_Collection\Grilled Cheese Sandwich\Grilled_Cheese_Sandwich_80.jpg,correct
+5%,Chicken Parmesan,USA_Food_Collection\Chicken Parmesan\Chicken_Parmesan_38.jpg,correct
+5%,Chicago Deep Dish Pizza,USA_Food_Collection\Chicago Deep Dish Pizza\Chicago_Deep_Dish_Pizza_70.jpg,correct
+5%,Classic Hamburger,USA_Food_Collection\Classic Hamburger\Classic_Hamburger_29.jpg,correct
+5%,Philly Cheesesteak,USA_Food_Collection\Philly Cheesesteak\Philly_Cheesesteak_53.jpg,correct
+5%,Hot Dog,USA_Food_Collection\Hot Dog\Hot_Dog_19.jpg,correct
+5%,Pepperoni Pizza,USA_Food_Collection\Pepperoni Pizza\Pepperoni_Pizza_41.jpg,correct
+5%,Fried Catfish,USA_Food_Collection\Fried Catfish\Fried_Catfish_19.jpg,correct
